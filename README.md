@@ -109,5 +109,6 @@ Each visual proves the effectiveness of merging distinct data sources for richer
 - Transforming tabular data for enhanced dashboard storytelling
 
 ## OUTPUT of the task 2
-![Image](https://github.com/user-attachments/assets/a3d8641b-3fe6-4375-80ad-3132f1a2dae5)
 ![Image](https://github.com/user-attachments/assets/4d4a576e-4520-44af-8aee-6068c03e8784)
+![Image](https://github.com/user-attachments/assets/a3d8641b-3fe6-4375-80ad-3132f1a2dae5)
+
